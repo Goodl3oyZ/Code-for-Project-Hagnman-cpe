@@ -1,0 +1,149 @@
+A1
+	grandparent
+	fantastic
+	geography
+	healty
+	hospital
+
+	newspaper
+	neighbour
+	negative
+	november
+	supermarket
+
+	opposite
+	remember
+	restaurant
+	wonderful
+	vegetable
+
+	understand
+	trousers
+	sandwich
+	shopping
+	policeman
+A2
+	adventure
+	behaviour
+	comfortable
+	employee
+	disappear
+
+	fortunately
+	goverment
+	jewellery
+	knowledge
+	mathematics
+	
+	opportunity
+	organization
+	particular
+	recommend
+	relationship
+
+	smartphone
+	transport
+	technology
+	suggestion
+	unfortunately
+B1
+	announcement
+	attitude
+	competitive
+	education
+	engineering
+
+	gentleman
+	graduate
+	experiment
+	financial
+	identity
+
+	litetaure
+	laboratory
+	imaginary
+	management
+	photographer
+
+	reference
+	prediction
+	occasion
+	responsible
+	treatment
+B2
+	abandon
+	broadcast
+	consideration
+	demonstrate
+	exploration
+	
+	humorous
+	illustration
+	distribute
+	mystrrious
+	observation
+	
+	estimate
+	leadership
+	material
+	opposition
+	significantly
+
+	permanent
+	perspective
+	ultimately
+	tranfrom
+	professional
+C1
+	accountable
+	adjustment
+	administer
+	battlefield
+	beneficiary
+
+	calculation
+	capability
+	machinery
+	magnitude
+	facilitate
+
+	identification
+	ignorance
+	transaction
+	partially
+	warehouse
+	
+	youngster
+	variable
+	harassment
+	hardware
+	glorious
+C2
+	adloscent
+	anontmous
+	breakdown
+	broadminded
+	capitalism
+
+	carriage
+	defensice
+	dependence
+	essential
+	fanatic
+
+	graceful
+	impulsive
+	intensity
+	knuckle
+	lenient
+
+	malicious
+	mainstream
+	intolerance
+	individual
+	hygienic
+
+	
+
+
+	
